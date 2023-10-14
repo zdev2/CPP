@@ -3,7 +3,7 @@
 #include <string>
 #include <cmath>
 #include <bitset>
-#include <fstream>  
+
 using namespace std;
 void persegi(){
 	int sisi,L,Kll;
